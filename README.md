@@ -1,6 +1,6 @@
 # Secomp UNESPAR 2025 - Agentes de IA
 
-Repósitorio oficial do curso de Agentes de IA do Secomp UNESPAR 2025.
+Repósitorio oficial do curso de Agentes de IA da Secomp UNESPAR 2025.
 
 ## Como iniciar o projeto
 
