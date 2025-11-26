@@ -8,7 +8,7 @@ Você precisará ter o Node.js na versão 20 ou superior instalado em sua máqui
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/secomp-unespar-2025-ai-agents/secomp-unespar-2025-ai-agents.git
+   git clone https://github.com/secomp-unespar-2025-ai-agents
    ```
 2. Navegue até o diretório do projeto:
    ```bash
